@@ -3,7 +3,7 @@
 A high-end, sleek, and fully responsive landing page inspired by Apple's minimalist design aesthetic. This project showcases product features with a focus on premium UI/UX.
 
 ## 🚀 Live Demo
-Experience the sleek design here: [**رابط_موقعك_على_GitHub_Pages_هنا**]
+Experience the sleek design here: [https://basselmo.github.io/iphone13-landing-page/]
 
 ## ✨ Key Features
 * **Apple-Inspired Design:** Clean, modern, and dark-themed UI.
